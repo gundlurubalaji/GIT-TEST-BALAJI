@@ -1,0 +1,1 @@
+console.log("wecome t 10x academic")
